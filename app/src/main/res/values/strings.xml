@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Funtastic</string>
+    <string name="claim">Unleash your iamgination</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="forgot_password">Forgot your password?</string>
 </resources>
