@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Funtastic</string>
+    <string name="claim">Lasse deiner Fantasi freien Lauf!</string>
+    <string name="login">Anemdeln</string>
+    <string name="sign_up">Registriern</string>
+    <string name="forgot_password">Password vergessn?</string>
+</resources>

@@ -19,7 +19,7 @@ class App : Application() {
             }
 
         })
-        LingoHub.configure(this, "api_98f77059-d105-4fd1-ac1a-9071b98fbb50", "pr_488c1a64-08ad-470e-859b-9983caeda6b8") // Funtastic
+        LingoHub.configure(this, "api_6e6bf7ad-21c9-49c4-80b3-f80b46a79f9f", "pr_488c1a64-08ad-470e-859b-9983caeda6b8") // Funtastic
 
         //LingoHub.setPreproductionEnabled()
         LingoHub.fetchStrings()
